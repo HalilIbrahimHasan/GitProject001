@@ -10,7 +10,11 @@ public class Class1 {
 		// Welcome to Git Sessions
 		//Thank you for joining
 		//here is a new commit
+
 		//here is an issue on local main branch
+
+		//Here is remote change
+
 	}
 	
 }
